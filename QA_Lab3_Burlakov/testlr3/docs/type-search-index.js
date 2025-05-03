@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"City"},{"p":"<Unnamed>","l":"Combine"},{"p":"<Unnamed>","l":"Country"},{"p":"<Unnamed>","l":"FirstTown"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"ResortTown"},{"p":"<Unnamed>","l":"SecondTown"}];updateSearchResults();

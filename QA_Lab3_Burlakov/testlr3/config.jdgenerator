@@ -1,0 +1,15 @@
+==== CONFIGS ====		
+{
+    "base_path": "c:\\Jvsc\\testlr3",
+    "out": "c:\\Jvsc\\testlr3\\javadoc",
+    "javadoc_executable": "undefined\\bin\\",
+    "exclude": [],
+    "raw_params": ""
+}
+
+==== ERRORS ====
+	Could not find a valid javadoc executable located in: 
+	undefined\bin\
+	Cannot find the specified Javadoc executable
+
+

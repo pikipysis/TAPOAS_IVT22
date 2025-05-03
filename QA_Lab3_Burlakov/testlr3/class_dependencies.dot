@@ -1,0 +1,26 @@
+digraph G {
+    // Определение классов
+    Main [label="Main", shape=box];
+    City [label="City", shape=box];
+    ResortTown [label="ResortTown", shape=box];
+    Country [label="Country", shape=box];
+    FirstTown [label="FirstTown", shape=box];
+    SecondTown [label="SecondTown", shape=box];
+    Combine [label="Combine", shape=box];
+
+    // Связи между классами
+    Main -> FirstTown [label="использует"];
+    Main -> SecondTown [label="использует"];
+    Main -> Combine [label="использует"];
+
+    FirstTown -> City [label="использует"];
+    SecondTown -> ResortTown [label="использует"];
+    Combine -> City [label="использует"];
+    Combine -> ResortTown [label="использует"];
+    
+    Country -> FirstTown [label="расширяет"];
+    Country -> SecondTown [label="расширяет"];
+    Country -> Combine [label="расширяет"];
+    
+    ResortTown -> City [label="наследует"];
+}

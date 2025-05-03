@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Граф:","h":"class Main","d":"Section","u":"Main.html#--heading1"},{"l":"Таблица плотности населения для городов:","h":"class Main","d":"Section","u":"Main.html#--heading"}];updateSearchResults();
